@@ -3,6 +3,7 @@ package linkedlist;
 import linkedlist.helper.Node;
 import linkedlist.helper.PrintLinkedList;
 
+// O(n)
 public class ReverseLL_10 {
 
 	// 1,2,3,4,5 => nodes => OP => 5,4,3,2,1
